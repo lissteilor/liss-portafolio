@@ -1,0 +1,297 @@
+2017:
+  - partido: Partido 1
+    indice: 23/40
+    percentage: 45
+    categories:
+    - category: I. Marco Normativo
+      questions:
+      - question: "1"
+        text: "Estatutos del partido"
+        value: true
+      - question: "2"
+        text: "Declaración de principios"
+        value: false
+      - question: "3"
+        text: "Reglamento interno"
+        value: true
+      - question: "4"
+        text: "Leyes"
+        value: false
+    - category: II. Datos de identificación
+      questions:
+      - question: "5"
+        text: "Nombre completo, sigla, símbolo, y lema del partido político"
+        value: true
+      - question: "6"
+        text: "Regiones y domicilio de las sedes del partido"
+        value: false
+      - question: "7"
+        text: "Estructura orgánica y funciones de unidades"
+        value: true
+      - question: "8"
+        text: " Organigrama"
+        value: false
+      - question: "9"
+        text: "Integrantes del Órgano Ejecutivo y del Órgano Contralor"
+        value: false
+    - category: III. Pactos electorales que integran
+      questions:
+      - question: "10"
+        text: "¿Cumple con informar si es o no parte de algún pacto electoral?"
+        value: true
+    - category: IV. Declaraciones de intereses y patrimonio
+      questions:
+      - question: "11"
+        text: "Declaraciones de intereses y patrimonio de candidatos"
+        value: true
+      - question: "12"
+        text: "Declaración de intereses y patrimonios de los miembros del Órgano Ejecutivo"
+        value: false
+    - category: V. Información financiera del partido, ingresos y gastos de funcionamiento del partido
+      questions:
+      - question: "13"
+        text: "Balance anual aprobado por el Servicio Electoral"
+        value: true
+      - question: "14"
+        text: "El total de aportes, donaciones, asignaciones testamentarias y otros"
+        value: false
+      - question: "15"
+        text: "Ingresos del partido político"
+        value: true
+      - question: "16"
+        text: "Gastos del partido político"
+        value: false
+      - question: "17"
+        text: "El monto total de las cotizaciones ordinarias y extraordinarias de sus afiliados, recibidas durante el año calendario respectivo"
+        value: true
+      - question: "18"
+        text: "Las transferencias de fondos que efectúen con cargo a los fondos públicos que perciban"
+        value: false
+      - question: "19"
+        text: "Nómina de contrataciones sobre 20 UTM"
+        value: false
+    - category: VI. Aportes a campañas y gastos electorales
+      questions:
+      - question: "20"
+        text: "Registro de gastos efectuados en las campañas electorales (letra e) del art. 33 de la ley Nº 19.884)"
+        value: true
+      - question: "21"
+        text: "Registro de aportes a campañas electorales (art. 40 de la Ley Nº 19.884)"
+        value: false
+      - question: "22"
+        text: "Vínculo a Servicio Electoral en el que consten las cuentas de los ingresos y gastos electorales presentadas ante el Director del SERVEL (art. 48, Ley Nº 19.884)"
+        value: false
+    - category: VII. Los acuerdos de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado
+      questions:
+      - question: "23"
+        text: "Publicación de todos aquellos acuerdos, actor, decisiones o resoluciones, cualquiera sea su denominación, de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado"
+        value: true
+    - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
+      questions:
+      - question: "24"
+        text: "Nombre y RUT de la entidad en la que participa"
+        value: true
+      - question: "25"
+        text: "Tipo de vínculo"
+        value: false
+      - question: "26"
+        text: "Fecha de inicio y término"
+        value: true
+      - question: "27"
+        text: "Descripción del vínculo"
+        value: false
+      - question: "28"
+        text: "Link al texto de la norma, acto, contrato, convenio o cualquier otro documento que lo justifiquen"
+        value: true
+      - question: "29"
+        text: "Informa si el partido es miembro de alguna organización internacional que reúna a partidos políticos de diferentes países"
+        value: false
+    - category: IX. Sanciones aplicadas al partido político
+      questions:
+      - question: "30"
+        text: "Fecha de la resolución"
+        value: true
+      - question: "31"
+        text: "Infracción cometida"
+        value: false
+      - question: "32"
+        text: "Tipo de sanción aplicada"
+        value: false
+      - question: "33"
+        text: "Link a la resolución que aplicó la sanción"
+        value: false
+    - category: X. Requisitos y procedimientos para nuevas afiliaciones y número de afiliados
+      questions:
+      - question: "34"
+        text: "Requisitos para la afiliación al partido"
+        value: true
+      - question: "35"
+        text: "El número total de afiliados al partido"
+        value: false
+    - category: XI. Información estadística sobre participación política dentro del partido
+      questions:
+      - question: "36"
+        text: "Número total y porcentaje de adherentes (desagregado por sexo)"
+        value: true
+      - question: "37"
+        text: "Distribución etaria de adherentes (desagregado por sexo)"
+        value: false
+      - question: "38"
+        text: "Número y porcentaje de militantes del partido que ocupan cargos directivos al interior del partido (desagregado por sexo)"
+        value: true
+      - question: "39"
+        text: "Número de militantes del partido que se desempeñen como autoridades de gobierno (desagregado por sexo)"
+        value: false
+    - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
+      questions:
+      - question: "40"
+        text: "Publica cualquier otra información adicional que el partido político determine, siempre que su publicidad no sea contraria a la Constitución y las leyes"
+        value: true
+  - partido: Partido 2
+    indice: 23/40
+    percentage: 18
+    categories:
+    - category: I. Marco Normativo
+      questions:
+      - question: "1"
+        text: "Estatutos del partido"
+        value: true
+      - question: "2"
+        text: "Declaración de principios"
+        value: false
+      - question: "3"
+        text: "Estatutos del partido"
+        value: true
+      - question: "4"
+        text: "Declaración de principios"
+        value: false
+    - category: II. Datos de identificación
+      questions:
+      - question: "5"
+        text: "Estatutos del partido"
+        value: true
+      - question: "6"
+        text: "Declaración de principios"
+        value: false
+      - question: "7"
+        text: "Estatutos del partido"
+        value: true
+      - question: "8"
+        text: "Declaración de principios"
+        value: false
+      - question: "9"
+        text: "Declaración de principios"
+        value: false
+    - category: III. Pactos electorales que integran
+      questions:
+      - question: "10"
+        text: "Estatutos del partido"
+        value: true
+    - category: IV. Declaraciones de intereses y patrimonio
+      questions:
+      - question: "11"
+        text: "Estatutos del partido"
+        value: true
+      - question: "12"
+        text: "Declaración de principios"
+        value: false
+    - category: V. Información financiera del partido, ingresos y gastos de funcionamiento del partido
+      questions:
+      - question: "13"
+        text: "Estatutos del partido"
+        value: true
+      - question: "14"
+        text: "Declaración de principios"
+        value: false
+      - question: "15"
+        text: "Estatutos del partido"
+        value: true
+      - question: "16"
+        text: "Declaración de principios"
+        value: false
+      - question: "17"
+        text: "Estatutos del partido"
+        value: true
+      - question: "18"
+        text: "Declaración de principios"
+        value: false
+      - question: "19"
+        text: "Declaración de principios"
+        value: false
+    - category: VI. Aportes a campañas y gastos electorales
+      questions:
+      - question: "20"
+        text: "Estatutos del partido"
+        value: true
+      - question: "21"
+        text: "Declaración de principios"
+        value: false
+      - question: "22"
+        text: "Declaración de principios"
+        value: false
+    - category: VII. Los acuerdos de los Órganos Intermedios Colegiados Regionales y del Órgano Intermedio Colegiado
+      questions:
+      - question: "23"
+        text: "Estatutos del partido"
+        value: true
+    - category: VIII. Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que le justifique
+      questions:
+      - question: "24"
+        text: "Estatutos del partido"
+        value: true
+      - question: "25"
+        text: "Declaración de principios"
+        value: false
+      - question: "26"
+        text: "Estatutos del partido"
+        value: true
+      - question: "27"
+        text: "Declaración de principios"
+        value: false
+      - question: "28"
+        text: "Estatutos del partido"
+        value: true
+      - question: "29"
+        text: "Declaración de principios"
+        value: false
+    - category: IX. Sanciones aplicadas al partido político
+      questions:
+      - question: "30"
+        text: "Estatutos del partido"
+        value: true
+      - question: "31"
+        text: "Declaración de principios"
+        value: false
+      - question: "32"
+        text: "Declaración de principios"
+        value: false
+      - question: "33"
+        text: "Declaración de principios"
+        value: false
+    - category: X. Requisitos y procedimientos para nuevas afiliaciones y número de afiliados
+      questions:
+      - question: "34"
+        text: "Estatutos del partido"
+        value: true
+      - question: "35"
+        text: "Declaración de principios"
+        value: false
+    - category: XI. Información estadística sobre participación política dentro del partido
+      questions:
+      - question: "36"
+        text: "Estatutos del partido"
+        value: true
+      - question: "37"
+        text: "Declaración de principios"
+        value: false
+      - question: "38"
+        text: "Estatutos del partido"
+        value: true
+      - question: "39"
+        text: "Declaración de principios"
+        value: false
+    - category: XII. Toda otra información que el Órgano Ejecutivo de cada partido político determine
+      questions:
+      - question: "40"
+        text: "Estatutos del partido"
+        value: true
