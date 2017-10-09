@@ -2,7 +2,15 @@ body{
   font-family: 'Karla', sans-serif;
   color: #012639;
 }
-
+a{
+  color: #E85D34;
+  font-weight: 700;
+}
+a:hover{
+  color: #06B9BF;
+  font-weight: 700;
+  text-decoration: none;
+}
 h1{
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
